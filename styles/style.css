@@ -1,0 +1,148 @@
+.greeting {
+    color: red;
+    text-align: center;
+}
+
+.container {
+    background-image: url("https://placeimg.com/300/300/any");
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    margin: auto; /*Responsive design*/
+}
+
+.box1 {
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box2 {
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box3 {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.box4 {
+    background-color: royalblue;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box5 {
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box6 {
+    background-color: whitesmoke;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.box7 {
+    background-color: beige;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box8 {
+    background-color: brown;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box9 {
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.box10 {
+    background-color: cadetblue;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box11 {
+    background-color: darkgoldenrod;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box12 {
+    background-color: firebrick;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.box13 {
+    background-color: gray;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box14 {
+    background-color: hotpink;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box15 {
+    background-color: indigo;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.box16 {
+    background-color: khaki;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.box17 {
+    background-color: lavender;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.box18 {
+    background-color: mediumspringgreen;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+section {
+    text-align: center;
+}
