@@ -10,6 +10,6 @@ Introductory html and css training workshop
 
 HTML5, CSS3, Javascript
 
-# Methodology
+## Methodology
 
 Mob programming
