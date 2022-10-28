@@ -2,5 +2,5 @@
 
 # Project Title
 
-Puzzle with <div> and js
+Puzzle with HTML, CSS y js
   
