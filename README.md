@@ -1,6 +1,6 @@
 # Project Title
 
-Puzzle with HTML, CSS y javascript
+Puzzle with HTML, CSS y Javascript
 
 # Project Description
 
