@@ -1,7 +1,15 @@
 # Project Title
 
-Puzzle with HTML, CSS y js
+Puzzle with HTML y CSS
 
 # Project Description
 
-Introductory workshop on HTML and CSS
+Introductory html and css training workshop
+
+# Stacks
+
+HTML5 and CSS3
+
+# Methodology
+
+Mob programming
